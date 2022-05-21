@@ -1,4 +1,4 @@
-[Broken links]([https://www.python.org/downloads/](https://github.com/groovy-sky/aaa/blob/master/READme.mD2))
+[Broken link]([https://www.python.org/downloads/](https://github.com/groovy-sky/aaa/blob/master/READme.mD2)
 
 https://github.com/groovy-sky/aaa/blob/master/READme.mD
 
