@@ -10,6 +10,9 @@ https://github.com/groovy-sky/aaa/blob/master/READme.mD
 
 ["test value"](www.google.com)
 
+["http link"](http://google.com)
+
+
 [relative link 1](/child1/child1_README.MD)
 
 [relative link 2](/child1/child2/child2_readme.md)
