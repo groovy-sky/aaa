@@ -1,17 +1,19 @@
+
+[web link 1](https://www.python.org/downloads/))
+
+[web link 2](https://github.com/groovy-sky/what-is-my-ip).
+
 [Broken link](https://github.com/groovy-sky/aaa/blob/master/READme.mD2)
 
 https://github.com/groovy-sky/aaa/blob/master/READme.mD
 
-[Python](https://www.python.org/downloads/)
+[non-exsisting link](https://non-exsisting-domain.none/test_q)
 
-[functions code](https://github.com/groovy-sky/what-is-my-ip).
+["link without http/https"](www.google.com)
 
-[((AAA))](https://non-exsisting-domain.none/test_q)
+[link without www and http/https](youtube.com)
 
-["test value"](www.google.com)
-
-["http link"](http://google.com)
-
+["http link"](http://gmail.com)
 
 [relative link 1](/child1/child1_README.MD)
 
