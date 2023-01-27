@@ -28,3 +28,5 @@ https://github.com/groovy-sky/aaa/blob/master/READme.mD
 [relative reddit link 2](www.reddit.com/user/groovy-sky)
 
 [opencode@microsoft.com](mailto:opencode@microsoft.com)
+
+[Redirect link](https://azure.microsoft.com/documentation/articles/virtual-machines-size-specs/)
