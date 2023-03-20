@@ -34,3 +34,5 @@ https://github.com/groovy-sky/aaa/blob/master/READme.mD
 [Redirect link](https://azure.microsoft.com/documentation/articles/virtual-machines-size-specs/)
 
 [Working link](https://learn.microsoft.com/en-us/azure/virtual-machines/acu)
+
+![Picture url](https://avatars.githubusercontent.com/u/40501227 "title")
