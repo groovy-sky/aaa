@@ -21,7 +21,9 @@ https://github.com/groovy-sky/aaa/blob/master/READme.mD
 
 [relative link 3](README.md)
 
-[relative link 4](test.folder1/test.Md)
+[relative link 4](README.md#title-2)
+
+[relative link 5](test.folder1/test.Md)
 
 [relative reddit link 1](reddit.com/user/groovy-sky)
 
